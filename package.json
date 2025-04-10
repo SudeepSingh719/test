@@ -1,0 +1,12 @@
+{
+  "name": "vuln-test-project",
+  "version": "1.0.0",
+  "description": "Test repo to trigger Dependabot alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test\" && exit 0"
+  },
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
